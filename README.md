@@ -1,4 +1,5 @@
-### Hi all my name is Vadim 👋
+### Hi all 👋
+My name is Vadim currently I am doing my Masters Degree in Computer Sience 
 
 <!--
 **VadimBir/VadimBir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
