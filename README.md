@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Vadim, a software engineer with expertise in v
 
 #### Professional Experience
 
-In my professional experience as a Software Engineer, I have worked on application development, optimization, bug fixing, testing, and documentation. I have successfully completed custom database projects and have utilized various frameworks to deliver robust solutions. My proficiency in operating systems, web development, version control, and databases allows me to create efficient and reliable software applications. 🚀🔧
+In my professional experience as a Software Engineer, I have worked on application development, optimization, bug fixing, testing, and documentation. I have successfully completed custom database projects and have utilized various frameworks to deliver robust solutions. My proficiency in caching, operating systems, web development, version control, and databases allows me to create efficient and reliable software applications. 🚀🔧
 
 #### Collaboration and Exploration
 
