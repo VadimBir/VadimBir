@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Vadim, a software engineer with expertise in v
 
 #### Academic Journey and Knowledge
 
-📚 During my academic journey, I assimilated valuable knowledge from diverse courses and effectively applied them to my projects. By adopting agile methodologies and adhering to best practices, I crafted highly efficient software solutions. Drawing upon my expertise in secure coding practices and vulnerability analysis, I fortified the security of my applications. 💻 Furthermore, I seamlessly integrated artificial intelligence techniques, such as machine learning and computer vision, into my projects. Through meticulous requirements analysis, meticulous system design, and comprehensive documentation, I ensured successful project management. 📝 These experiences have significantly enhanced the quality and impact of my software development endeavors. ✨🌟
+📚 During my academic journey, I assimilated valuable knowledge from diverse courses and effectively applied them to my projects. By adopting agile methodologies and adhering to best practices, I crafted highly efficient software solutions. Drawing upon my expertise in secure coding practices and vulnerability analysis, I fortified the security of my applications. Through meticulous requirements analysis, meticulous system design, and comprehensive documentation, I ensured successful project management. 
 
 #### Professional Experience
 
